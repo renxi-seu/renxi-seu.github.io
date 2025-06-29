@@ -2,15 +2,18 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Post-Graduate | School of Cyber Science and Engineering, Southeast University
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+- Deepfake Detection, Computer Vision, Deep Learning, Machine Learning
+
+#### Research Interests
+- <strong>Sep 2022 - Aug 2023:</strong> Executive Chair, Student Union, College of Information Science and Technology, Nanjing Forestry University
+- <strong>Sep 2024 - Aug 2025:</strong> Graduate Student Party Branch Secretary, School of Cyber Science and Engineering, Southeast University
+- <strong>Present:</strong> Deputy Secretary, Youth League Committee (Concurrently), School of Cyber Science and Engineering, Southeast University
+
+#### Email
+- renxi[at]seu.edu.cn
+
+
 
