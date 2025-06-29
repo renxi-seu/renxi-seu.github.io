@@ -1,4 +1,4 @@
-Post-Graduate | School of Cyber Science and Engineering, Southeast University
+<strong>Post-Graduate | School of Cyber Science and Engineering, Southeast University</strong>
 
 #### Research Interests
 - Deepfake Detection, Computer Vision, Deep Learning, Machine Learning
