@@ -1,6 +1,7 @@
 
 #### National Level
 
+- 2025 <strong>Graduate National Scholarship</strong>
 - 2021 <strong>National Scholarship</strong>
 - 2022 <strong>National Scholarship</strong>
 
@@ -13,3 +14,4 @@
 
 #### Competition Awards
 - 2024 The 21th China Post-Graduate Mathematical Contest in Modeling, <strong>Second Prize</strong>
+
